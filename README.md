@@ -60,3 +60,6 @@ Feel free to explore my repositories and follow my progress! 🚀
 ### GitHub Activity
 
 ![Snake animation](https://github.com/Thiago-Costta/Thiago-Costta/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=thiago-costta&repo=thiago-costta&theme=react)](https://github.com/thiago-costta;thiago-costta)
