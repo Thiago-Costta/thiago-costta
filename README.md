@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Costa;I+study+software+engineer+at+Uni-FACEF;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
 
 ##
 
@@ -16,7 +14,7 @@ I enjoy working on projects that challenge me to learn something new and allow m
 **Technologies and tools I am studying:**  
 - Languages: Python, Java, JavaScript  
 - Web: HTML5, CSS3, React  
-- Databases: PostgreSQL  
+- Databases: PostgreSQL, Oracle  
 - Others: Git, GitHub, Docker (beginner)
 
 Feel free to explore my repositories and follow my progress! 🚀
@@ -35,7 +33,7 @@ Feel free to explore my repositories and follow my progress! 🚀
 
 ### Technologies I Am Studying
 
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117&width="20"height="20")&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=green&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
@@ -43,10 +41,10 @@ Feel free to explore my repositories and follow my progress! 🚀
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=0D1117)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-
 
 ---
 
@@ -55,6 +53,7 @@ Feel free to explore my repositories and follow my progress! 🚀
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:thiagocostta2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/thiago-keven-costa/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Thiago-Costta)
+
 ---
 
 ### GitHub Activity
