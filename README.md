@@ -58,6 +58,6 @@ Feel free to explore my repositories and follow my progress! 🚀
 
 ### GitHub Activity
 
-![Snake animation](https://github.com/Thiago-Costta/Thiago-Costta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thiago-Costta/Thiago-Costta/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
